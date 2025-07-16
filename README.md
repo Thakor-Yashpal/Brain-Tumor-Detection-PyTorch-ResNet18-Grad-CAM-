@@ -52,7 +52,7 @@ pip install torch torchvision matplotlib opencv-python
 ```
 ## 🖼️ Grad-CAM Example Output
 
-![Grad-CAM Heatmap](images/gradcam_example.jpg)
+![Grad-CAM Heatmap](https://github.com/user-attachments/assets/f08b0d3a-a53e-4810-91d4-308f283f8d3c)
 
 
 ---
